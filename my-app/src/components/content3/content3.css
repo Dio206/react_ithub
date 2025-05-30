@@ -1,6 +1,6 @@
 .content3 .container {
     display: flex;
-    flex-direction: row; /* Расположение в ряд */
+    flex-direction: row; 
     height: 480px;
     width: 100;
 }

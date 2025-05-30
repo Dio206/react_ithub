@@ -12,9 +12,9 @@
 .header_row {
     display: flex;
     justify-content: space-between;
-    width: 100%; /* Добавлено */
-    padding: 0 20px; /* Добавлено для отступов от краев */
-    /* margin-right: 50px; Удалить эту строку */
+    width: 100%; 
+    padding: 0 20px; 
+    
 }
 
 .header_logo {

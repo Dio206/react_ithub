@@ -1,4 +1,4 @@
-import './content1.css'; // Оставьте здесь,  если стили нужны только для этого компонента
+import './content1.css'; 
 import photo from './../../image/image 1.png'
 function Content1() {
     return (
