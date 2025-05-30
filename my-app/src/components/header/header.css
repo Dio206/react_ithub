@@ -1,0 +1,122 @@
+.header {
+   font-family: Arial, Helvetica, sans-serif; 
+   display: flex;
+   padding: 0 20px;
+   justify-content: center;
+   align-items: center;
+   max-height: 840px;
+   background-color: #F4F9E2;
+   
+}
+
+.header_row {
+    display: flex;
+    justify-content: space-between;
+    width: 100%; /* Добавлено */
+    padding: 0 20px; /* Добавлено для отступов от краев */
+    /* margin-right: 50px; Удалить эту строку */
+}
+
+.header_logo {
+    padding: 17px 0 0;
+    display: flex;
+    align-items: center;
+}
+.container {
+    max-width: 1440px;
+    width: 100%;
+    margin: 0 auto; 
+    padding: 0 20px; 
+}
+
+
+.header_nav {
+    padding: 62px 0 0;
+    
+}
+.header_content_text {
+    padding-right: 10%; 
+    max-width: 700px; 
+}
+
+.header_button{
+    padding: 52px 0 0;
+    display: flex;
+    align-items: center;
+    
+    
+    
+}
+
+.header_content {
+    display: flex;
+    align-items: center;
+    padding-top: 119px;
+
+}
+
+.container {
+    margin-bottom: 86px;
+}
+
+
+
+.header_content_text h1{
+   padding: 0 0 46px;
+   font-size: 48px;
+   font-weight: 400;
+   font-style: italic;
+}
+
+.header_content_text h4{
+    font-size: 24px;
+    line-height: 177%;
+    font-weight: 400;
+ }
+ 
+.header_content_text {
+    padding-right: 250px;
+    color: #22356F;
+   
+}
+ 
+
+.container {
+    max-width: 1440px;
+}
+
+.header_nav ul {
+    column-gap: 69px;
+    display: flex;
+    align-items: center;
+    list-style: none;
+    text-decoration: none;
+    
+}
+.header_nav a {
+    color: black;
+    text-decoration: none;
+    
+}
+
+.header_row {
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.header_btn{
+    border-radius: 50px;
+    background-color: #F9B640;
+    padding: 17px 39px 17px;
+    font-weight: 400;
+    font-style: italic;
+    font-size: 14px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;
+    vertical-align: middle;
+    color: white;
+    text-decoration: none;
+
+}
